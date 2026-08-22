@@ -1,12 +1,11 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "founders-vent",
-  "main": "src/worker/index.ts",
+  "main": "./src/worker/index.ts",
   "compatibility_date": "2026-08-22",
 
   "assets": {
-    "not_found_handling": "single-page-application",
-    "binding": "ASSETS"
+    "not_found_handling": "single-page-application"
   },
 
   "d1_databases": [
@@ -16,5 +15,4 @@
       "database_id": "5d04fd70-f682-4868-a373-ec6e4471b0e2"
     }
   ]
-
 }
