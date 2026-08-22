@@ -1,5 +1,12 @@
 {
   "name": "founders-vent",
   "main": "src/index.ts",
-  "compatibility_date": "2026-08-22"
+  "compatibility_date": "2026-08-22",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "founders-vent-db",
+      "database_id": "5d04fd70-f682-4868-a373-ec6e4471b0e2"
+    }
+  ]
 }
