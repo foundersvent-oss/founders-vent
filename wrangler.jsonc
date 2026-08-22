@@ -8,5 +8,11 @@
       "database_name": "founders-vent-db",
       "database_id": "5d04fd70-f682-4868-a373-ec6e4471b0e2"
     }
+  ],
+  "r2_buckets": [
+    {
+      "binding": "ASSETS",
+      "bucket_name": "founders-vent-assets"
+    }
   ]
 }
